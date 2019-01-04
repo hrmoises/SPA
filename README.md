@@ -32,7 +32,7 @@ Esta aplicación es el resultado del primer tema del curso del curso: [Angular: 
 
 ## Servidor de desarrollo
 
-Ejecutar a través de un terminal, desde el directorio del proyecto, el comando: `npm install`. Luego ejecutar: `ng serve -o` para ejecutar el servidor de desarrollo. Se debería de abrir automáticamente el navegador con la dirección: `http://localhost:4200/`. (La aplicación se recargará automáticamente si se realizan cambios en el código fuente).
+Ejecutar a través de un terminal, desde el directorio del proyecto, el comando: `npm install`. Luego ejecutar: `ng serve -o` para ejecutar el servidor de desarrollo. Se debería de abrir automáticamente el navegador con la dirección: [`http://localhost:4200/`](http://localhost:4200/). (La aplicación se recargará automáticamente si se realizan cambios en el código fuente).
 
 ## Build
 
