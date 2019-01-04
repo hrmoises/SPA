@@ -4,31 +4,31 @@ Este proyecto ha sido creado con [Angular CLI](https://github.com/angular/angula
 
 Esta aplicación es el resultado del primer tema del curso del curso: [Angular: De cero a experto creando aplicaciones (Angular 7+)](https://www.udemy.com/angular-2-fernando-herrera/), en el que se han trabajado en los siguientes puntos:
 
-    * Crear una aplicación de una sola página (SPA).
-        * Creación de proyectos de Angular usando el CLI (Command Line Interface).
-        * Creación de componentes de forma manual y através de CLI (`ng generate component NombreComponent` o `ng g c NombreComponent`).
-        * Creación de servicios de forma manual.
+* Crear una aplicación de una sola página (SPA).
+    * Creación de proyectos de Angular usando el CLI (Command Line Interface).
+    * Creación de componentes de forma manual y através de CLI (`ng generate component NombreComponent` o `ng g c NombreComponent`).
+    * Creación de servicios de forma manual.
 
-    * Instalación y uso de Boostrap o librerías de teceros usando el Angular-CLI.
+* Instalación y uso de Boostrap o librerías de teceros usando el Angular-CLI.
 
-    * Creación de rutas de nuestra aplicación.
-        * Uso de RouterLink y RouterLinkActive para movernos de página y colocar clases a los elementos activos.
-        * Uso del modulo Router, que nos permite movernos de página mediante código.
-        * Obtención de parámetros vía URL.
+* Creación de rutas de nuestra aplicación.
+    * Uso de RouterLink y RouterLinkActive para movernos de página y colocar clases a los elementos activos.
+    * Uso del modulo Router, que nos permite movernos de página mediante código.
+    * Obtención de parámetros vía URL.
 
-    * Configuración de un servicio en Angular para el manejo de la data.
+* Configuración de un servicio en Angular para el manejo de la data.
 
-    * Uso de directivas:
-        * **ngIf**
-        * **ngFor**
+* Uso de directivas:
+    * **ngIf**
+    * **ngFor**
     
-    * Cración de un website para visualizar distintas páginas con una barra de navegación superior
+* Cración de un website para visualizar distintas páginas con una barra de navegación superior
 
-    * Uso de Pipes ([UpperCasePipe](https://angular.io/api/common/UpperCasePipe) y [DatePipe](https://angular.io/api/common/DatePipe))
+* Uso de Pipes ([UpperCasePipe](https://angular.io/api/common/UpperCasePipe) y [DatePipe](https://angular.io/api/common/DatePipe))
     
-    * Uso del buscador del navbar para realizar una consulta a nuestro arreglo de héroes.
+* Uso del buscador del navbar para realizar una consulta a nuestro arreglo de héroes.
     
-    * Uso de Input y Output entre componentes padres e hijos.
+* Uso de Input y Output entre componentes padres e hijos.
 
 ## Servidor de desarrollo
 
